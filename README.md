@@ -43,6 +43,7 @@ create view highest_views as select title,count(*) as views
 order by views desc limit 3;
 
 Solution 2
+
 View 1:
 Create a view for storing authors name & slug between authors & articles table.
 
@@ -68,6 +69,7 @@ Matching above two queries to find authors and views.
    order by num desc;
 
 Solution 3
+
 View 1:
 Create a view to collect total errors based on date.
 
