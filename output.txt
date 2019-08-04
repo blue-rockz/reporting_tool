@@ -1,0 +1,20 @@
+vagrant@vagrant:/vagrant$ python reporting_tool.py
+                Most popular titles
+--------------------------------------------------
+'Candidate is jerk, alleges rival' (title) ---- 338647 (no of views)
+'Bears love berries, alleges bear' (title) ---- 253801 (no of views)
+'Bad things gone, say good people' (title) ---- 170098 (no of views)
+<-----------------End of output----------------->
+                Most popular Authors
+--------------------------------------------------
+'Ursula La Multa' (author) ---- 507594 (no of views)
+'Rudolf von Treppenwitz' (author) ---- 423457 (no of views)
+'Anonymous Contributor' (author) ---- 170098 (no of views)
+'Markoff Chaney' (author) ---- 84557 (no of views)
+<-----------------End of output----------------->
+         Highest errors on a particular day
+
+--------------------------------------------------
+        Date            Percentage
+        2016-07-17         2%
+<-----------------End of output----------------->
